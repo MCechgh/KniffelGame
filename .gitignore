@@ -27,7 +27,7 @@
 *.lib
 
 # Executables
-*.exe
+# *.exe # needed for Kniffel_setup.exe
 *.out
 *.app
 

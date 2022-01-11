@@ -1,0 +1,12 @@
+README.md
+setup.py
+Kniffel/Info.py
+Kniffel/KniffelGame.py
+Kniffel/__init__.py
+Kniffel/backend.py
+Kniffel/version.py
+Kniffel.egg-info/PKG-INFO
+Kniffel.egg-info/SOURCES.txt
+Kniffel.egg-info/dependency_links.txt
+Kniffel.egg-info/requires.txt
+Kniffel.egg-info/top_level.txt
